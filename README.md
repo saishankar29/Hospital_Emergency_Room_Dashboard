@@ -28,7 +28,7 @@ To analyze patient flow, wait times, and demographic patterns in the hospital em
 10.Which racial group accounts for the highest patient volume?
 
 # Dashboard
-- <a href="">Dashboard</a>
+- <a href="https://saishankar29.github.io/Hospital_Emergency_Room_Dashboard/">Dashboard</a>
 
 ![Screenshot 2025-03-15 090708](https://github.com/user-attachments/assets/bb4241d2-b58c-4639-ac0e-8f70d1fcb48d)
 
